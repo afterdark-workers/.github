@@ -1,6 +1,8 @@
 # afterdark-workers
 
-Ready-to-build [RunPod Serverless](https://www.runpod.io/serverless-gpu) workers for 18+ image and video models from Civitai and Hugging Face. Each repo is a template: make a private copy, paste your Civitai token (Hugging Face ones need none), point a RunPod endpoint at it. The model is baked into the image and checked by SHA-256 at build time.
+Ready-to-build [RunPod Serverless](https://runpod.io?ref=qpguwapm) workers for 18+ image and video models from Civitai and Hugging Face. Each repo is a template: make a private copy, paste your Civitai token (Hugging Face ones need none), point a RunPod endpoint at it. The model is baked into the image and checked by SHA-256 at build time.
+
+No RunPod account yet? [Sign up here](https://runpod.io?ref=qpguwapm) — a referral link: after you first add $10, RunPod gives you a bonus credit (usually $5–10).
 
 ### Photoreal
 
