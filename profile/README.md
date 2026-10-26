@@ -11,7 +11,7 @@ No RunPod account yet? [Sign up here](https://runpod.io?ref=qpguwapm) — a refe
 | Krea 2 DirtyUncut | Krea 2 | ComfyUI | [krea2-dirtyuncut](https://github.com/afterdark-workers/krea2-dirtyuncut) |
 | Krea 2 FinePorn | Krea 2 | ComfyUI | [krea2-fineporn](https://github.com/afterdark-workers/krea2-fineporn) |
 | Lustify SDXL | SDXL | ComfyUI | [lustify-sdxl](https://github.com/afterdark-workers/lustify-sdxl) |
-| Fluxmania Legacy | FLUX.1 dev | ComfyUI | [fluxmania](https://github.com/afterdark-workers/fluxmania) |
+| Fluxmania Kreamania | FLUX.1 dev | ComfyUI | [fluxmania](https://github.com/afterdark-workers/fluxmania) |
 | Z-Image CyberRealistic | Z-Image | ComfyUI | [zimage-cyberrealistic](https://github.com/afterdark-workers/zimage-cyberrealistic) |
 | Z-Image IntoRealism | Z-Image | ComfyUI | [zimage-intorealism](https://github.com/afterdark-workers/zimage-intorealism) |
 | Z-Image BigLove | Z-Image | ComfyUI | [zimage-biglove](https://github.com/afterdark-workers/zimage-biglove) |
