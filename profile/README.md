@@ -48,6 +48,7 @@ No RunPod account yet? [Sign up here](https://runpod.io?ref=qpguwapm) — a refe
 | Model | Base | Engine | Repo |
 |---|---|---|---|
 | Wan 2.2 Enhanced NSFW 14B | Wan 2.2 | ComfyUI | [wan22-enhanced-nsfw](https://github.com/afterdark-workers/wan22-enhanced-nsfw) |
+| H3 Eros Max | MiniMax H3 | ComfyUI | [h3-eros-max](https://github.com/afterdark-workers/h3-eros-max) |
 
 Two engines — they work the same from Cobalt Pear:
 
